@@ -37,7 +37,7 @@ public class Quitter extends AppCompatActivity {
         String[] surpriseText = {"Say no to censorship",
                                 "Internet != North Korea",
                                 "Free speech is the best",
-                                "I say it, even you don't like it",
+                                "I like Milo's hair",
                                 "Support #Gamergate",
                                 "Sarkeesian == Censorship"
         };
